@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @ekokurniadi
+- 👋 Hi, I’m @ekokurniadi, I'm a Fullstack Developer
 - 👀 I’m interested in Web & Mobile Apps Development
-- 🌱 I’m currently learning React JS
+- 🌱 I’m currently learning Next JS and Golang
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ekokurniadi.02@gmail.com
 
