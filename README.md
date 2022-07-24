@@ -5,7 +5,7 @@
 
 
 ## By the way here are some of my statistics 🚀
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ekokurniadi&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ekokurniadi&show_icons=true&theme=tokyonight)
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ekokurniadi&theme=tokyonight" alt="mystreak"/>
 
