@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ekokurniadi, I'm a Fullstack Developer
 - 👀 I’m interested in Web, Mobile Apps Development and Microservices
-- 🌱 I’m currently learning Ruby on Rails and Kotlin
+- 🌱 I’m currently learning C++ and Rush
 - 📫 How to reach me ekokurniadi.02@gmail.com
 
 
