@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ekokurniadi, I'm a Fullstack Developer
 - 👀 I’m interested in Web, Mobile & Desktop Apps Development
 - 🌱 I’m currently learning C++ and Rust
-- 📫 How to reach me ekokurniadi.02@gmail.com
 - 🪟 Flutter Desktop Windows Specialist
 
 
