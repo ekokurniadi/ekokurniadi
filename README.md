@@ -8,5 +8,3 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ekokurniadi&show_icons=true&theme=tokyonight)
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ekokurniadi&theme=tokyonight" alt="mystreak"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ekokurniadi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
